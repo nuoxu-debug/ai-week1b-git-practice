@@ -63,3 +63,10 @@ git push -u origin add-about-me
 
 Put the link to your **merged pull request** in your Week 1b tutorial file and submit it on
 [eQIU](https://eqiu.qiu.edu.my/course/view.php?id=7852).
+
+## About me
+
+- **Name:** Xu Nuo
+- **Programme:** BCS
+- **One AI topic I am curious about:** AI-powered travel planning systems.
+- **Why it interests me (one sentence):** I am interested in how AI can create personalized travel plans.
